@@ -1,4 +1,4 @@
-# A Real Code Fix for a Bug I Diagnosed
+# Closing the Loop: Fixing the cephadm Certificate Bug (PR #71407)
 
 Part 10 of a hands-on Ceph learning series. Closes the loop opened in Part 3: not just diagnosing and reporting a bug, but writing and submitting the actual fix, with regression tests, as a real PR against `ceph/ceph`.
 

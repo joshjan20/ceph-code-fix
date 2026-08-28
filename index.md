@@ -1,10 +1,10 @@
-# Closing the Loop: A Real Code Fix for the Bug I Diagnosed
+# Closing the Loop: Fixing the cephadm Certificate Bug (PR #71407)
 
 **Status: 🟢 [PR #71407](https://github.com/ceph/ceph/pull/71407) open, a code fix with tests, awaiting `ci-approved` and maintainer review**
 
 ## Context
 
-This is Part 10 of a hands-on Ceph series:
+This is Part 10 of a hands-on Ceph learning series:
 
 - **[Part 1: ceph-handson](https://joshjan20.github.io/ceph-handson/)**, building a 3-node Ceph cluster from scratch
 - **[Part 2: ceph-self-healing](https://joshjan20.github.io/ceph-self-healing/)**, simulating and recovering from a node failure
