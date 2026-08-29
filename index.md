@@ -134,7 +134,7 @@ Part 10 (this part): Found the exact source line, wrote the
    fix, added regression tests, opened PR #71407
 ```
 
-This is the difference between finding a problem and actually helping fix it, the kind of full-cycle engagement described directly in the job posting: not just "enthusiastic about Ceph," but diagnosing, reporting, and contributing a working fix back to the project.
+This is the difference between finding a problem and actually helping fix it, diagnosing, reporting, and contributing a working fix back to the project, not just being enthusiastic about it from the outside.
 
 ---
 

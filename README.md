@@ -26,3 +26,4 @@ Part 10 of a hands-on Ceph learning series. Closes the loop opened in Part 3: no
 - [Part 8: ceph-benchmarking](https://joshjan20.github.io/ceph-benchmarking/), performance benchmarking
 - [Part 9: ceph-ansible](https://joshjan20.github.io/ceph-ansible/), automating tooling deployment with Ansible
 - Part 10 (this repo): the actual code fix
+- [Part 11: ceph-timezone-fix](https://joshjan20.github.io/ceph-timezone-fix/), a second bug in the same file, verified and fixed with tests
